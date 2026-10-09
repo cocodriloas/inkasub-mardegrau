@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 97a2a658053cfa24c905db7fa355de91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8361362089709711661
+    second: Conglomerado_Aviso_0
+  - first:
+      213: 8210764976140637053
+    second: Conglomerado_Aviso_1
+  - first:
+      213: -8131703287849080790
+    second: Conglomerado_Aviso_2
+  - first:
+      213: -9173231012125803137
+    second: Conglomerado_Aviso_3
+  - first:
+      213: -496420224160456729
+    second: Conglomerado_Aviso_4
+  - first:
+      213: -3011260101842628751
+    second: Conglomerado_Aviso_5
+  - first:
+      213: 4292020385775647181
+    second: Conglomerado_Aviso_6
+  - first:
+      213: -3376770062922156543
+    second: Conglomerado_Aviso_7
+  - first:
+      213: 8974974516783685998
+    second: Conglomerado_Aviso_8
+  - first:
+      213: 1425989982813539650
+    second: Conglomerado_Aviso_9
+  - first:
+      213: 4931820134390438737
+    second: Conglomerado_Aviso_10
+  - first:
+      213: 7045149110327937192
+    second: Conglomerado_Aviso_11
+  - first:
+      213: 9110333679603032465
+    second: Conglomerado_Aviso_12
+  - first:
+      213: 5001712813476481866
+    second: Conglomerado_Aviso_13
+  - first:
+      213: -4698992521159884539
+    second: Conglomerado_Aviso_14
+  - first:
+      213: 5788751028628845622
+    second: Conglomerado_Aviso_15
+  - first:
+      213: -1979054872663239600
+    second: Conglomerado_Aviso_16
+  - first:
+      213: -2861334840485914810
+    second: Conglomerado_Aviso_17
+  - first:
+      213: 70711239928703138
+    second: Conglomerado_Aviso_18
+  - first:
+      213: -2087629902403836572
+    second: Conglomerado_Aviso_19
+  - first:
+      213: 1581778204898150771
+    second: Conglomerado_Aviso_20
+  - first:
+      213: -5764099057925358987
+    second: Conglomerado_Aviso_21
+  - first:
+      213: 1187376332932129606
+    second: Conglomerado_Aviso_22
+  - first:
+      213: -1438851580149340656
+    second: Conglomerado_Aviso_23
+  - first:
+      213: 2105177866374534257
+    second: Conglomerado_Aviso_24
+  - first:
+      213: -5092144788943651065
+    second: Conglomerado_Aviso_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conglomerado_Aviso_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21b09b2586890470800000000000000
+      internalID: 8361362089709711661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Aviso_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73d4194e3f72f170800000000000000
+      internalID: 8210764976140637053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Aviso_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2821ec71f2662f80800000000000000
+      internalID: -8131703287849080790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Aviso_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7df4af0ff222b080800000000000000
+      internalID: -9173231012125803137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Aviso_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef989faf6c5c19f0800000000000000
+      internalID: -496420224160456729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Aviso_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f0d5744ead536d0800000000000000
+      internalID: -3011260101842628751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e6f93ddb42b7bd42b8641acfc24f23b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":320.0,"y":320.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Conglomerado_Aviso_0: 8361362089709711661
+      Conglomerado_Aviso_1: 8210764976140637053
+      Conglomerado_Aviso_2: -8131703287849080790
+      Conglomerado_Aviso_3: -9173231012125803137
+      Conglomerado_Aviso_4: -496420224160456729
+      Conglomerado_Aviso_5: -3011260101842628751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

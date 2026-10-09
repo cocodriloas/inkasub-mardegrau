@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 3934db0e71f4aa2469926d5f24d82a49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2551406814702898465
+    second: Fantasma_Golpeado_0
+  - first:
+      213: -7587432297679541537
+    second: Fantasma_Golpeado_1
+  - first:
+      213: -628532986022450661
+    second: Fantasma_Golpeado_2
+  - first:
+      213: 5926926707502336000
+    second: Fantasma_Golpeado_3
+  - first:
+      213: 8753946679418060093
+    second: Fantasma_Golpeado_4
+  - first:
+      213: -5068642287890398435
+    second: Fantasma_Golpeado_5
+  - first:
+      213: 3379100102492019453
+    second: Fantasma_Golpeado_6
+  - first:
+      213: -8310964805353184586
+    second: Fantasma_Golpeado_7
+  - first:
+      213: 4084424462278337285
+    second: Fantasma_Golpeado_8
+  - first:
+      213: -6963458990857263206
+    second: Fantasma_Golpeado_9
+  - first:
+      213: 6676293219042607921
+    second: Fantasma_Golpeado_10
+  - first:
+      213: 7180183034649472928
+    second: Fantasma_Golpeado_11
+  - first:
+      213: 5152007525946282965
+    second: Fantasma_Golpeado_12
+  - first:
+      213: -7793050358216432648
+    second: Fantasma_Golpeado_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasma_Golpeado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27f1c1505979cd0800000000000000
+      internalID: -2551406814702898465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Golpeado_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda2c73768604b690800000000000000
+      internalID: -7587432297679541537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Golpeado_2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a248e44900747f0800000000000000
+      internalID: -628532986022450661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Golpeado_3
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c372307ca04250800000000000000
+      internalID: 5926926707502336000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8baad6c24048dcb4398620ad7e23feba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":457.0,"y":194.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4309999942779541,"y":0.5049999952316284},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fantasma_Golpeado_0: -2551406814702898465
+      Fantasma_Golpeado_1: -7587432297679541537
+      Fantasma_Golpeado_2: -628532986022450661
+      Fantasma_Golpeado_3: 5926926707502336000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

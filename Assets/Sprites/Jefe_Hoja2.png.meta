@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 9d8a5c065eed4964ea1d4d29769e248e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5668292769567051283
+    second: ChatGPT Image 8 oct 2026, 16_17_46_0
+  - first:
+      213: 2902983386856003050
+    second: ChatGPT Image 8 oct 2026, 16_17_46_1
+  - first:
+      213: -7649981144107428906
+    second: ChatGPT Image 8 oct 2026, 16_17_46_2
+  - first:
+      213: 8280188890983065510
+    second: ChatGPT Image 8 oct 2026, 16_17_46_3
+  - first:
+      213: -3156897059019155250
+    second: ChatGPT Image 8 oct 2026, 16_17_46_4
+  - first:
+      213: -5618889249995962806
+    second: ChatGPT Image 8 oct 2026, 16_17_46_5
+  - first:
+      213: -6562213825887643591
+    second: ChatGPT Image 8 oct 2026, 16_17_46_6
+  - first:
+      213: 1336330676820818468
+    second: ChatGPT Image 8 oct 2026, 16_17_46_7
+  - first:
+      213: 930253480096812933
+    second: ChatGPT Image 8 oct 2026, 16_17_46_8
+  - first:
+      213: 6236727256359692258
+    second: ChatGPT Image 8 oct 2026, 16_17_46_9
+  - first:
+      213: -1217808672212656449
+    second: ChatGPT Image 8 oct 2026, 16_17_46_10
+  - first:
+      213: -668492965879143653
+    second: ChatGPT Image 8 oct 2026, 16_17_46_11
+  - first:
+      213: -5452435550855508073
+    second: ChatGPT Image 8 oct 2026, 16_17_46_12
+  - first:
+      213: -308212262487388346
+    second: ChatGPT Image 8 oct 2026, 16_17_46_13
+  - first:
+      213: -7608705835775238061
+    second: ChatGPT Image 8 oct 2026, 16_17_46_14
+  - first:
+      213: 5429423448798023450
+    second: ChatGPT Image 8 oct 2026, 16_17_46_15
+  - first:
+      213: -3320747173730399207
+    second: ChatGPT Image 8 oct 2026, 16_17_46_16
+  - first:
+      213: 493808923125558893
+    second: ChatGPT Image 8 oct 2026, 16_17_46_17
+  - first:
+      213: -7413170319523827855
+    second: ChatGPT Image 8 oct 2026, 16_17_46_18
+  - first:
+      213: 6361127218544348873
+    second: ChatGPT Image 8 oct 2026, 16_17_46_19
+  - first:
+      213: -4848782032360277786
+    second: ChatGPT Image 8 oct 2026, 16_17_46_20
+  - first:
+      213: 4652280596400443902
+    second: ChatGPT Image 8 oct 2026, 16_17_46_21
+  - first:
+      213: 517118944279302277
+    second: ChatGPT Image 8 oct 2026, 16_17_46_22
+  - first:
+      213: -3421696309208001165
+    second: ChatGPT Image 8 oct 2026, 16_17_46_23
+  - first:
+      213: 5532959134720167907
+    second: ChatGPT Image 8 oct 2026, 16_17_46_24
+  - first:
+      213: -2997757152849980785
+    second: ChatGPT Image 8 oct 2026, 16_17_46_25
+  - first:
+      213: -8049222065140792377
+    second: ChatGPT Image 8 oct 2026, 16_17_46_26
+  - first:
+      213: -2779161097171931212
+    second: ChatGPT Image 8 oct 2026, 16_17_46_27
+  - first:
+      213: -3994177486321808779
+    second: ChatGPT Image 8 oct 2026, 16_17_46_28
+  - first:
+      213: -3890496679284508351
+    second: ChatGPT Image 8 oct 2026, 16_17_46_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jefe_Hoja2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9789fc48569614544b51ba9caf617322
+      internalID: 81288990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c5b66da5440643ae986862c948a81
+      internalID: 1259644200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50929a72c669e24da9a963c2c097f63
+      internalID: -1172798073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418105d2828be9468435a3e72cc2b5e
+      internalID: -2129295257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b954041af6bdc5740bcc08264352ff01
+      internalID: -1247122188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380193e609b831344871ac0d17a8004e
+      internalID: -951071502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba5804c379fd149ae6f9666cc8b990
+      internalID: -2138493069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jefe_Hoja2_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47671d6a52c4a4e42aca8db6e24ff45b
+      internalID: 694521485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b9cfc9df507c63c439d9f9811d73088e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":384.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Jefe_Hoja2_0: 81288990
+      Jefe_Hoja2_1: 1259644200
+      Jefe_Hoja2_2: -1172798073
+      Jefe_Hoja2_3: -2129295257
+      Jefe_Hoja2_4: -1247122188
+      Jefe_Hoja2_5: -951071502
+      Jefe_Hoja2_6: -2138493069
+      Jefe_Hoja2_7: 694521485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

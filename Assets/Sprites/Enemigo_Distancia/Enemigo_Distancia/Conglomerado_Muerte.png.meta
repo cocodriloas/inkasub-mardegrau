@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: a796c2b02dfc2f447ba9dc1d88a63946
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5702765864342777560
+    second: Conglomerado_Muerte_0
+  - first:
+      213: -1410415372529046931
+    second: Conglomerado_Muerte_1
+  - first:
+      213: 3765605518842297744
+    second: Conglomerado_Muerte_2
+  - first:
+      213: -888785642621805277
+    second: Conglomerado_Muerte_3
+  - first:
+      213: -1519711514613885249
+    second: Conglomerado_Muerte_4
+  - first:
+      213: -4736827114786140675
+    second: Conglomerado_Muerte_5
+  - first:
+      213: 1615444261690352071
+    second: Conglomerado_Muerte_6
+  - first:
+      213: -1148592670325877446
+    second: Conglomerado_Muerte_7
+  - first:
+      213: 8105131676281920046
+    second: Conglomerado_Muerte_8
+  - first:
+      213: 8700764521308711855
+    second: Conglomerado_Muerte_9
+  - first:
+      213: 241951531498170301
+    second: Conglomerado_Muerte_10
+  - first:
+      213: 6818832400653218209
+    second: Conglomerado_Muerte_11
+  - first:
+      213: -1210499965576898405
+    second: Conglomerado_Muerte_12
+  - first:
+      213: -3018874371658023675
+    second: Conglomerado_Muerte_13
+  - first:
+      213: 8703852985512299113
+    second: Conglomerado_Muerte_14
+  - first:
+      213: -8107730587836487547
+    second: Conglomerado_Muerte_15
+  - first:
+      213: 2970061356541928243
+    second: Conglomerado_Muerte_16
+  - first:
+      213: 6971034767628130502
+    second: Conglomerado_Muerte_17
+  - first:
+      213: 1829527370278603612
+    second: Conglomerado_Muerte_18
+  - first:
+      213: 5300405010136626022
+    second: Conglomerado_Muerte_19
+  - first:
+      213: -2970930568625222988
+    second: Conglomerado_Muerte_20
+  - first:
+      213: 4730567222545100632
+    second: Conglomerado_Muerte_21
+  - first:
+      213: -1487208486992926737
+    second: Conglomerado_Muerte_22
+  - first:
+      213: 6878071180003670172
+    second: Conglomerado_Muerte_23
+  - first:
+      213: 3829743867167836865
+    second: Conglomerado_Muerte_24
+  - first:
+      213: -9214092276790543915
+    second: Conglomerado_Muerte_25
+  - first:
+      213: 2922381674603652305
+    second: Conglomerado_Muerte_26
+  - first:
+      213: 733956023193077200
+    second: Conglomerado_Muerte_27
+  - first:
+      213: -1315297148887169215
+    second: Conglomerado_Muerte_28
+  - first:
+      213: 4075358912707963060
+    second: Conglomerado_Muerte_29
+  - first:
+      213: -5635477447286505625
+    second: Conglomerado_Muerte_30
+  - first:
+      213: -3192850788486013226
+    second: Conglomerado_Muerte_31
+  - first:
+      213: -1709110934375277944
+    second: Conglomerado_Muerte_32
+  - first:
+      213: 2692843203259158262
+    second: Conglomerado_Muerte_33
+  - first:
+      213: -958704256484140253
+    second: Conglomerado_Muerte_34
+  - first:
+      213: 8498924741744645837
+    second: Conglomerado_Muerte_35
+  - first:
+      213: 6594528018495770597
+    second: Conglomerado_Muerte_36
+  - first:
+      213: 3740519932177589967
+    second: Conglomerado_Muerte_37
+  - first:
+      213: 3980654013121388701
+    second: Conglomerado_Muerte_38
+  - first:
+      213: 3035200163720703019
+    second: Conglomerado_Muerte_39
+  - first:
+      213: 4425644985033156370
+    second: Conglomerado_Muerte_40
+  - first:
+      213: -7028966397609965752
+    second: Conglomerado_Muerte_41
+  - first:
+      213: -4128639713665632096
+    second: Conglomerado_Muerte_42
+  - first:
+      213: 5199130014990055257
+    second: Conglomerado_Muerte_43
+  - first:
+      213: 623287477661083389
+    second: Conglomerado_Muerte_44
+  - first:
+      213: 8198157966115749594
+    second: Conglomerado_Muerte_45
+  - first:
+      213: 2786680609194502672
+    second: Conglomerado_Muerte_46
+  - first:
+      213: -2239816390084217816
+    second: Conglomerado_Muerte_47
+  - first:
+      213: -549245554653365922
+    second: Conglomerado_Muerte_48
+  - first:
+      213: -4523926926835969450
+    second: Conglomerado_Muerte_49
+  - first:
+      213: 4155978382878773097
+    second: Conglomerado_Muerte_50
+  - first:
+      213: -4191003156376795465
+    second: Conglomerado_Muerte_51
+  - first:
+      213: -6329487611626038944
+    second: Conglomerado_Muerte_52
+  - first:
+      213: 2775007220075238972
+    second: Conglomerado_Muerte_53
+  - first:
+      213: 1319376128811511745
+    second: Conglomerado_Muerte_54
+  - first:
+      213: -7491973444820939050
+    second: Conglomerado_Muerte_55
+  - first:
+      213: 8980759480425529639
+    second: Conglomerado_Muerte_56
+  - first:
+      213: -3282807835765651536
+    second: Conglomerado_Muerte_57
+  - first:
+      213: -7231766345675056453
+    second: Conglomerado_Muerte_58
+  - first:
+      213: -6643315078677600382
+    second: Conglomerado_Muerte_59
+  - first:
+      213: -7584431309146974907
+    second: Conglomerado_Muerte_60
+  - first:
+      213: 40015819988792634
+    second: Conglomerado_Muerte_61
+  - first:
+      213: -2232528362184200477
+    second: Conglomerado_Muerte_62
+  - first:
+      213: -205707659739174148
+    second: Conglomerado_Muerte_63
+  - first:
+      213: -3095924930113025082
+    second: Conglomerado_Muerte_64
+  - first:
+      213: 4949338903679347796
+    second: Conglomerado_Muerte_65
+  - first:
+      213: -6243624422841893768
+    second: Conglomerado_Muerte_66
+  - first:
+      213: -1712882513102143306
+    second: Conglomerado_Muerte_67
+  - first:
+      213: -3961139366752024196
+    second: Conglomerado_Muerte_68
+  - first:
+      213: -1792511283281640202
+    second: Conglomerado_Muerte_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conglomerado_Muerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deef5dc65b442f40800000000000000
+      internalID: 5702765864342777560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Muerte_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae7aef0b23d6ce0800000000000000
+      internalID: -1410415372529046931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Muerte_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d78d2b44e124430800000000000000
+      internalID: 3765605518842297744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Muerte_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5f02ca266aa3f0800000000000000
+      internalID: -888785642621805277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Muerte_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb65e52ed66e8eae0800000000000000
+      internalID: -1519711514613885249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conglomerado_Muerte_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdcbbcf5d8634eb0800000000000000
+      internalID: -4736827114786140675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba786d5d2aaa69645a20c41df6142441
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":320.0,"y":320.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Conglomerado_Muerte_0: 5702765864342777560
+      Conglomerado_Muerte_1: -1410415372529046931
+      Conglomerado_Muerte_2: 3765605518842297744
+      Conglomerado_Muerte_3: -888785642621805277
+      Conglomerado_Muerte_4: -1519711514613885249
+      Conglomerado_Muerte_5: -4736827114786140675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

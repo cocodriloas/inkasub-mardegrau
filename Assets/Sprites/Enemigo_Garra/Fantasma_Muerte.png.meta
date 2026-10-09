@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 3acbc57e02e66ff4484bce2504632465
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7521382091438957189
+    second: Fantasma_Muerte_0
+  - first:
+      213: -8036773212926099506
+    second: Fantasma_Muerte_1
+  - first:
+      213: -5453717443413563087
+    second: Fantasma_Muerte_2
+  - first:
+      213: 6784372782460391112
+    second: Fantasma_Muerte_3
+  - first:
+      213: 8974343276624980901
+    second: Fantasma_Muerte_4
+  - first:
+      213: -6983192669021799860
+    second: Fantasma_Muerte_5
+  - first:
+      213: 7631924760566065154
+    second: Fantasma_Muerte_6
+  - first:
+      213: -8025835406000830987
+    second: Fantasma_Muerte_7
+  - first:
+      213: 4756230437253529735
+    second: Fantasma_Muerte_8
+  - first:
+      213: -8198940269215154831
+    second: Fantasma_Muerte_9
+  - first:
+      213: 1133530056952216685
+    second: Fantasma_Muerte_10
+  - first:
+      213: -1339398759686529422
+    second: Fantasma_Muerte_11
+  - first:
+      213: -8837350583455764828
+    second: Fantasma_Muerte_12
+  - first:
+      213: -8659860270506846457
+    second: Fantasma_Muerte_13
+  - first:
+      213: -3244007722675463817
+    second: Fantasma_Muerte_14
+  - first:
+      213: -2207739265948983813
+    second: Fantasma_Muerte_15
+  - first:
+      213: -2340524896524372560
+    second: Fantasma_Muerte_16
+  - first:
+      213: -3854128268669265560
+    second: Fantasma_Muerte_17
+  - first:
+      213: 298976140511438137
+    second: Fantasma_Muerte_18
+  - first:
+      213: 2126884453407669458
+    second: Fantasma_Muerte_19
+  - first:
+      213: 231648063979509145
+    second: Fantasma_Muerte_20
+  - first:
+      213: -8709680593031938619
+    second: Fantasma_Muerte_21
+  - first:
+      213: -1600388745267451762
+    second: Fantasma_Muerte_22
+  - first:
+      213: -7801458459065053539
+    second: Fantasma_Muerte_23
+  - first:
+      213: 39666332311799144
+    second: Fantasma_Muerte_24
+  - first:
+      213: -6286375416920866442
+    second: Fantasma_Muerte_25
+  - first:
+      213: 2637750659887993444
+    second: Fantasma_Muerte_26
+  - first:
+      213: 35212584771455591
+    second: Fantasma_Muerte_27
+  - first:
+      213: 8869606126965279226
+    second: Fantasma_Muerte_28
+  - first:
+      213: -8287301152820835033
+    second: Fantasma_Muerte_29
+  - first:
+      213: -4133585433172407380
+    second: Fantasma_Muerte_30
+  - first:
+      213: 2408856334926530654
+    second: Fantasma_Muerte_31
+  - first:
+      213: 1560699414992665649
+    second: Fantasma_Muerte_32
+  - first:
+      213: -711504577595202517
+    second: Fantasma_Muerte_33
+  - first:
+      213: 616223126363147110
+    second: Fantasma_Muerte_34
+  - first:
+      213: -5139615842227572041
+    second: Fantasma_Muerte_35
+  - first:
+      213: -163296468493348986
+    second: Fantasma_Muerte_36
+  - first:
+      213: -8182619179311730921
+    second: Fantasma_Muerte_37
+  - first:
+      213: 1501529945931405464
+    second: Fantasma_Muerte_38
+  - first:
+      213: -3171125425124257789
+    second: Fantasma_Muerte_39
+  - first:
+      213: -7223407830012540791
+    second: Fantasma_Muerte_40
+  - first:
+      213: 8531594804554632226
+    second: Fantasma_Muerte_41
+  - first:
+      213: 6932087750167604969
+    second: Fantasma_Muerte_42
+  - first:
+      213: 7111572692007578995
+    second: Fantasma_Muerte_43
+  - first:
+      213: 3942699224420685084
+    second: Fantasma_Muerte_44
+  - first:
+      213: 4541686742132209140
+    second: Fantasma_Muerte_45
+  - first:
+      213: -6948062715907986386
+    second: Fantasma_Muerte_46
+  - first:
+      213: -5164056166446668445
+    second: Fantasma_Muerte_47
+  - first:
+      213: 8053808831481360626
+    second: Fantasma_Muerte_48
+  - first:
+      213: -5200486633895045702
+    second: Fantasma_Muerte_49
+  - first:
+      213: 6165762644345311054
+    second: Fantasma_Muerte_50
+  - first:
+      213: 741642830615310959
+    second: Fantasma_Muerte_51
+  - first:
+      213: -7632826221081784250
+    second: Fantasma_Muerte_52
+  - first:
+      213: 626031785685132610
+    second: Fantasma_Muerte_53
+  - first:
+      213: -2995106021944462871
+    second: Fantasma_Muerte_54
+  - first:
+      213: -8999401441465709295
+    second: Fantasma_Muerte_55
+  - first:
+      213: 6141186323917252176
+    second: Fantasma_Muerte_56
+  - first:
+      213: 1910990710109917208
+    second: Fantasma_Muerte_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasma_Muerte_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ddbcb76deae9790800000000000000
+      internalID: -7521382091438957189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Muerte_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf3a2fe755a77090800000000000000
+      internalID: -8036773212926099506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Muerte_2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139abf751e08054b0800000000000000
+      internalID: -5453717443413563087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Muerte_3
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce416ab91fe62e50800000000000000
+      internalID: 6784372782460391112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Muerte_4
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba5a779a54b8c70800000000000000
+      internalID: 8974343276624980901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasma_Muerte_5
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 0
+        width: 457
+        height: 194
+      alignment: 9
+      pivot: {x: 0.431, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af7dc1447b61f90800000000000000
+      internalID: -6983192669021799860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b552725d9ce07c4aaf78f29557490ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":457.0,"y":194.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4309999942779541,"y":0.5049999952316284},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fantasma_Muerte_0: -7521382091438957189
+      Fantasma_Muerte_1: -8036773212926099506
+      Fantasma_Muerte_2: -5453717443413563087
+      Fantasma_Muerte_3: 6784372782460391112
+      Fantasma_Muerte_4: 8974343276624980901
+      Fantasma_Muerte_5: -6983192669021799860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
